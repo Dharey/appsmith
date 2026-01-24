@@ -23,7 +23,7 @@
     "@tabler/icons-react": "^3.10.0",
     "clsx": "^2.0.0",
     "colorjs.io": "^0.5.2",
-    "lodash": "*",
+    "lodash": "4.17.23",
     "react-aria-components": "^1.2.1"
   },
   "devDependencies": {
